@@ -1,0 +1,7 @@
+build*/
+results/*.csv
+results/*.png
+results/*.svg
+__pycache__/
+.venv/
+.DS_Store
